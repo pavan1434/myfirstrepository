@@ -10,12 +10,16 @@ public class LocalDate1 {
 		
 		System.out.println(localdate.toString());
 		
-		System.out.println(localdate.getDayOfMonth());
-		System.out.println(localdate.getDayOfYear());
-		System.out.println(localdate.getDayOfMonth());
+		//System.out.println(localdate.getDayOfMonth());
+		//System.out.println(localdate.getDayOfYear());
+		//System.out.println(localdate.getDayOfMonth());
 		System.out.println(localdate.getDayOfWeek().toString());
 		System.out.println(localdate.isLeapYear());
 
+		
+		
+		
+		
 	}
 
 }
